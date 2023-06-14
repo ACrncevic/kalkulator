@@ -1,0 +1,22 @@
+.calcBtns{
+    height: 70px;
+    width: 70px;
+    font-size: 2rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 30px;
+    background-color: rgb(189, 189, 167);
+    user-select: none;
+    
+}
+
+.res{
+    width: 140px;
+    background-color: cadetblue;
+}
+
+.res::-webkit-scrollbar{
+    padding-top: 20px;
+    display: block;
+}
